@@ -15,11 +15,11 @@ This is a simple note-taking application built with Express.js on the backend. U
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/Philip-Tom/-Note-Taker`
+2. Navigate to the project directory: `cd -Note-Taker`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
-5. Open your browser and go to `http://localhost:3000`
+5. Open your browser and go to `http://localhost:5000`
 
 
 ## Usage
