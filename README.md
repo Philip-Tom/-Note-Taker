@@ -46,7 +46,7 @@ To run this application locally, follow these steps:
 
 ## Deployed Application
 
-The application is deployed on Heroku. You can access it [here](your-heroku-app-url).
+The application is deployed on Heroku. You can access it [here](https://philip-tom-heroku-0a32f22cd951.herokuapp.com).
 
 
 ## Technologies Used
